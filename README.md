@@ -54,7 +54,7 @@
 
 <h2 align="center">Connect with Me 🤝</h2>
 <p align="center">
-  <strong>GitHub:</strong> Explore my active repositories and branches right here
+  💻 <strong>GitHub:</strong> Check out the MotoKeeper source code and its production branch <a href="https://github.com/adxrzn/MotoKeeper-Full">right here</a>
   <br />
-  <strong>Email:</strong> ...@gmail.com
+  ✉️ <strong>Email:</strong> <a href="mailto:tu-correo@proton.me">...@...</a>
 </p>
