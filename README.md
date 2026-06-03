@@ -1,9 +1,18 @@
+<p align="center">
+  <img src="logo.gif" alt="ADXRZN Graffiti" width="60%" />
+</p>
+
+<p align="center">
+  <code style="color: #007acc; font-size: 1.3em;">{ JUNIOR FULL STACK DEVELOPER }</code>
+</p>
+
+<br />
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I am a Junior Web Developer specializing in the JavaScript and TypeScript ecosystem. Focused on building functional production-ready applications, optimizing frontend experiences, and managing solid backend architectures.
+  I am a Junior Web Developer focused on building clean, fully functional applications within the JavaScript and TypeScript ecosystem. I enjoy handling the entire workflow, from optimizing frontend interfaces to setting up robust backend structures and relational databases.
   <br /><br />
-  My goal is to keep expanding my knowledge in backend systems, database performance, and modern web frameworks to deliver scalable digital solutions.
+  As a junior developer, my goal is to constantly refine how I code by focusing on architecture, improving database performance, and ensuring that everything I build is stable, secure, and easy to maintain.
 </p>
 
 <br />
