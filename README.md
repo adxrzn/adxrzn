@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="logo.gif.gif" alt="ADXRZN Graffiti" width="60%" />
-</p>
 <hr style="border: null; height: 2px; background-color: #007acc;" />
-
-<h2 align="center">About Me 👋</h2>
+<h2 align="center">About Me</h2>
 <p align="center">
   I am a Junior Web Developer focused on building clean, fully functional applications within the JavaScript and TypeScript ecosystem. I enjoy handling the entire workflow, from optimizing frontend interfaces to setting up robust backend structures and relational databases.
   <br /><br />
@@ -12,7 +8,7 @@
 
 <hr style="border: null; height: 2px; background-color: #007acc;" />
 
-<h2 align="center">🛠 Toolbox</h2>
+<h2 align="center">Tech Stack</h2>
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript" />
@@ -30,43 +26,20 @@
 
 <hr style="border: null; height: 2px; background-color: #007acc;" />
 
-<h2 align="center">🚀 Project Spotlight</h2>
+<h2 align="center">Projects Spotlights</h2>
 <p align="center">
-  <strong>MotoKeeper</strong> | <a href="https://moto-keeper-full.vercel.app">Live Demo</a>
+  <strong>MotoKeeper</strong>
 </p>
 <p align="center">
   A full-stack application designed for vehicle maintenance logging, data management, and state tracking. It provides a secure, optimized platform to centralize technical records and monitor logs efficiently.
 </p>
 <p align="center">
-  <strong>Key Deliverables:</strong> Monolithic architecture built with Next.js App Router, secure user authentication via NextAuth/Bcrypt, and cloud-based PostgreSQL integration.
+  <strong>Stack</strong>
+  <p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Bcrypt-Security-22C55E?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Bcrypt" />
 </p>
-
-<hr style="border: null; height: 2px; background-color: #007acc;" />
-
-<h2 align="center">📂 Portfolio</h2>
-<div align="center">
-
-| Project | Stack | Description | Source |
-| :--- | :--- | :--- | :---: |
-| **MotoKeeper** | `Next.js` `TypeScript` `PostgreSQL` | Full-stack vehicle maintenance & state logging platform. | [Code](https://github.com/adxrzn/MotoKeeper-Full) / [Live](https://moto-keeper-full.vercel.app) |
-| _Next Project_ | `--` | Upcoming full-stack architecture application. | ⏳ |
-
-</div>
-
-<hr style="border: null; height: 2px; background-color: #007acc;" />
-
-<h2 align="center">🎓 Next Milestones</h2>
 <p align="center">
-  <strong>Active Learning:</strong> Enhancing my skills in advanced backend architectures, relational query optimization, and automated testing implementations.
-  <br />
-  <strong>Technical Goals:</strong> Joining technical projects where I can apply my analytical approach, focus on clean code, and full-stack workflow.
-</p>
-
+<a href="https://moto-keeper-full.vercel.app">Live Demo</a>
 <hr style="border: null; height: 2px; background-color: #007acc;" />
-
-<h2 align="center">Connect with Me 🤝</h2>
-<p align="center">
-  💻 <strong>GitHub:</strong> Check out the MotoKeeper source code and its production branch <a href="https://github.com/adxrzn/MotoKeeper-Full">right here</a>
-  <br />
-  ✉️ <strong>Email:</strong> <a href="mailto:tu-correo@proton.me">...@...</a>
-</p>
