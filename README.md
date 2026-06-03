@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.gif" alt="ADXRZN Graffiti" width="60%" />
+  <img src="logo.gif.gif" alt="ADXRZN Graffiti" width="60%" />
 </p>
 
 <p align="center">
