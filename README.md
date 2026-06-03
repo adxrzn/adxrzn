@@ -48,7 +48,7 @@
 
 | Project | Stack | Description | Source |
 | :--- | :--- | :--- | :---: |
-| **MotoKeeper** | `Next.js` `TypeScript` `PostgreSQL` | Full-stack vehicle maintenance & state logging platform. | [Code](https://github.com/adxrzn/moto-keeper-full) / [Live](https://moto-keeper-full.vercel.app) |
+| **MotoKeeper** | `Next.js` `TypeScript` `PostgreSQL` | Full-stack vehicle maintenance & state logging platform. | [Code](https://github.com/adxrzn/MotoKeeper-Full) / [Live](https://moto-keeper-full.vercel.app) |
 | _Next Project_ | `--` | Upcoming full-stack architecture application. | ⏳ |
 
 </div>
